@@ -72,10 +72,10 @@ Following are the  results of **Our model** presented in the paper.
 python tese_GAC.py --dataset Synthetic_low_contrast --img_size 256 --max_epochs 60
 ```
 <p>
-  <img width="24%" alt="image" title="Image" src="examples\Synthetic_low_contrast\19image.png">
-<img width="24%" alt="ground truth" title="Ground Truth" src="examples\Synthetic_low_contrast\19ground.png">
-  <img width="24%" alt="results" title="Pred_segmentation" src="examples\Synthetic_low_contrast\19pred.png">
-<img width="24%" alt="boundary" title="Pred_boundary" src="examples\Synthetic_low_contrast\19boundary.png">
+  <img width="24%" alt="image" title="Image" src="examples\Synthetic_low_contrast\19_image.png">
+<img width="24%" alt="ground truth" title="Ground Truth" src="examples\Synthetic_low_contrast\19_ground.png">
+  <img width="24%" alt="results" title="Pred_segmentation" src="examples\Synthetic_low_contrast\19_pred.png">
+<img width="24%" alt="boundary" title="Pred_boundary" src="examples\Synthetic_low_contrast\19_boundary.png">
 </p>
 
 ### Other datasets
