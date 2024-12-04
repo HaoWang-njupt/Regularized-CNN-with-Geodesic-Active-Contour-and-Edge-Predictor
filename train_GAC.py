@@ -4,7 +4,7 @@ import os
 import random
 import numpy as np
 import torch
-import torch.backends.cudnn as cudnn
+import torch.backends.cudnn as cudnn 
 from network.UNet_GAC import UNet_GAC
 from trainer_GAC import trainer_GAC
 

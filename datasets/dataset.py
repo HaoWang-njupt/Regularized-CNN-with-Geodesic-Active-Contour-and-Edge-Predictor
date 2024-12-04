@@ -8,7 +8,7 @@ from torch.utils.data import Dataset
 import h5py
 
 
-def random_rot_flip(image, label, SDF, OSDF):
+def random_rot_flip(image, label, SDF, OSDF): 
     k = np.random.randint(0, 4)
     image = np.rot90(image, k)
     label = np.rot90(label, k)

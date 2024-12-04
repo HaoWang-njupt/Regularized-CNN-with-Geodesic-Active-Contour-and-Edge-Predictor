@@ -6,7 +6,7 @@ import torch.nn.functional as F
 
 affine_par = True
 
-class DoubleConv(nn.Module):
+class DoubleConv(nn.Module): 
     """(convolution => [BN] => ReLU) * 2"""
 
     def __init__(self, in_channels, out_channels, mid_channels=None):
