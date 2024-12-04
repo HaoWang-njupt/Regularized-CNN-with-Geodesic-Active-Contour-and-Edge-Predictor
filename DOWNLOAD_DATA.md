@@ -9,7 +9,7 @@ The dataset should be organized as :
 
 ```
 ./data/Synthetic/
-                  ├── train_low_contrast/
+                  ├── train_low_contrast/ 
                   ├── test_low_contrast/
                   ├── train_noise/
                        ├── SD0.1/
